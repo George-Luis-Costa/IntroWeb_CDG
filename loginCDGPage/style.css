@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+}
+
+#title {
+    width: 100%;
+    text-align: center;
+}
+
+
+#form-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 70px;
+    width: 30%;
+}
+
+
+#form-email {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    padding: 20px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+
+#logo {
+    border-radius: 10px;
+    margin: 10px;
+    width: 200px;
+}
+
+
+#background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    width: 100vw;
+    height: 120vh;
+    /* backgound blur */
+    /* filter: blur(5px); */
+    /* background image */
+    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("./img/bg.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+#email,
+#senha {
+    color: white;
+    border: none;
+    border: 1px solid white;
+    background-color: transparent;
+    border-radius: 4px;
+
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.button-submit {
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+@media(max-width: 600px) {
+    #form-card {
+        width: 100vw;
+        height: 100vh;
+    }
+
+    #form-email {
+        width: 80%;
+    }
+
+    #form-card {
+        padding: 0%;
+    }
+
+    #title {
+        font-size: 20px;
+    }
+
+}
