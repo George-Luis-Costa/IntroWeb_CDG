@@ -1,0 +1,12 @@
+Sequência a se seguir no Notion(Web):
+
+Acessar -> Web -> Front-end:
+	- Conceitos HTML -> O que é HTML?
+
+	- Conceitos CSS  -> O que é CSS?
+			 -> Como adicionar CSS
+			 -> Seletores, combinadores e mais *(Seletores simples)
+
+	- Conceitos HTML -> Tags básicas
+			 -> Atributos HTML
+			 -> Elementos de nível de bloco e Inline
