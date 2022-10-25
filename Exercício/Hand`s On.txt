@@ -4,9 +4,9 @@ GitHub para baixar arquivos iniciais: https://github.com/George-Luis-Costa/Intro
 
 -------------------------------------------------------------------------------------------
 
-- Dentro da tag <head> coloque o titulo como "MusicDot"
+1) Dentro da tag <head> coloque o titulo como "MusicDot"
 
-- Na tag <Body> coloque as seguintes informações:
+2) Na tag <Body> coloque as seguintes informações:
 Um cabeçalho <h1> com conteúdo: "Bem-vindo à MusicDot, seu portal de cursos de música online."
 
 
@@ -26,7 +26,7 @@ Coloque os seguintes conteúdos, cada um em uma linha:
 -Aprenda sem sair de casa.
 *
 
-<!-- Imagem -->
+3) <!-- Imagem -->
 
 Use a tag <figure></figure> para organizar a colocação de uma imagem:
 
@@ -35,9 +35,9 @@ Use a tag <figure></figure> para organizar a colocação de uma imagem:
 
 e em seguida, coloque essa legenda: "Matriz da MusicDot" com o uso da tag  <figcaption></figcaption> (Dentro de <figure>)
 
-Crie uma tag rodapé "<footer>" e insira, dentro desta tag, um paragrafo <p> com o seguinte conteúdo: "A musicaDot tem o prazer em atendê-lo."
+4) Crie uma tag rodapé "<footer>" e insira, dentro desta tag, um paragrafo <p> com o seguinte conteúdo: "A musicaDot tem o prazer em atendê-lo."
 
-Para finalizar, link um arquivo css externo no html, dentro de <head>:
+5) Para finalizar, link um arquivo css externo no html, dentro de <head>:
 <link rel="stylesheet" href="caminho">
 
 Isso dará um estilo na página!
