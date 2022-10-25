@@ -1,4 +1,5 @@
 Sequência a se seguir no Notion(Web):
+link: https://cookie-submarine-e90.notion.site/Material-CDG-Hub-80ea9c9b60b24debaf7f32e4138283cf
 
 Acessar -> Web -> Front-end:
 	- Conceitos HTML -> O que é HTML?
