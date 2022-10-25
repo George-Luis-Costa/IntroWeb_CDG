@@ -2,10 +2,13 @@ GitHub para baixar arquivos iniciais: https://github.com/George-Luis-Costa/Intro
 
 	Instruções para montar uma página simples em HTML
 
+-------------------------------------------------------------------------------------------
+
 - Dentro da tag <head> coloque o titulo como "MusicDot"
 
 - Na tag <Body> coloque as seguintes informações:
 Um cabeçalho <h1> com conteúdo: "Bem-vindo à MusicDot, seu portal de cursos de música online."
+
 
 	Abra uma lista desordenada com a tag: <ul>
 *
@@ -30,7 +33,7 @@ Use a tag <figure></figure> para organizar a colocação de uma imagem:
  - Dentro da tag <figure>, insira a imagem:
  <img src="img/matriz-musicdot.png" alt="Foto da matriz da musicdot">
 
-e em seguida, coloque essa legenda: "Matriz da MusicDot" com o uso da tag  <figcaption></figcaption>
+e em seguida, coloque essa legenda: "Matriz da MusicDot" com o uso da tag  <figcaption></figcaption> (Dentro de <figure>)
 
 Crie uma tag rodapé "<footer>" e insira, dentro desta tag, um paragrafo <p> com o seguinte conteúdo: "A musicaDot tem o prazer em atendê-lo."
 
