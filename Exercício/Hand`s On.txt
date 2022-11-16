@@ -1,43 +1,10 @@
-GitHub para baixar arquivos iniciais: https://github.com/George-Luis-Costa/IntroWeb_CDG
+	GitHub para baixar arquivos iniciais: 
+
+https://github.com/George-Luis-Costa/IntroWeb_CDG
+
+-------------------------------------------------------------
 
 	Instruções para montar uma página simples em HTML
 
--------------------------------------------------------------------------------------------
-
-1) Dentro da tag <head> coloque o titulo como "MusicDot"
-
-2) Na tag <Body> coloque as seguintes informações:
-Um cabeçalho <h1> com conteúdo: "Bem-vindo à MusicDot, seu portal de cursos de música online."
-
-
-	Abra uma lista desordenada com a tag: <ul>
-*
-<ul>	#lista desordenada
-
-	<li> conteudo...</li> 		# <li> -> linhas, podem ser várias.
-	<li> conteudo2...</li>
-</ul>
-
-Coloque os seguintes conteúdos, cada um em uma linha:
-
--Confira nossas promoções.
--Receba informações sobre nossos lançamentos por email.
--Navegue por todos nossos cursos disponíveis.
--Aprenda sem sair de casa.
-*
-
-3) <!-- Imagem -->
-
-Use a tag <figure></figure> para organizar a colocação de uma imagem:
-
- - Dentro da tag <figure>, insira a imagem:
- <img src="img/matriz-musicdot.png" alt="Foto da matriz da musicdot">
-
-e em seguida, coloque essa legenda: "Matriz da MusicDot" com o uso da tag  <figcaption></figcaption> (Dentro de <figure>)
-
-4) Crie uma tag rodapé "<footer>" e insira, dentro desta tag, um paragrafo <p> com o seguinte conteúdo: "A musicaDot tem o prazer em atendê-lo."
-
-5) Para finalizar, link um arquivo css externo no html, dentro de <head>:
-<link rel="stylesheet" href="caminho">
-
-Isso dará um estilo na página!
+Acesse o Notion`s: 
+https://georgecosta.notion.site/CDG-Hub-Instru-es-e7b5e28515f74915bdd0ae7350438cd4

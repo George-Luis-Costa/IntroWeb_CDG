@@ -65,7 +65,7 @@ label {
     /* backgound blur */
     /* filter: blur(5px); */
     /* background image */
-    background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("./img/bg.jpeg");
+    background-image: linear-gradient(rgb(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url("./img/bg.jpeg");
     background-size: cover;
     background-position: center;
 }

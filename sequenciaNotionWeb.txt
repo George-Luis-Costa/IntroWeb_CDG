@@ -1,7 +1,16 @@
 Sequência a se seguir no Notion(Web):
 link: https://cookie-submarine-e90.notion.site/Material-CDG-Hub-80ea9c9b60b24debaf7f32e4138283cf
 
+Assuntos :
+
+O que é a WEB
+	Cliente e Servidores
+	Protocolo HTTP e DNS
+	O que é Front-end e Back-end
+	Papeis das tecnologias HTML, CSS e JS
+
 Acessar -> Web -> Front-end:
+
 	- Conceitos HTML -> O que é HTML?
 
 	- Conceitos CSS  -> O que é CSS?
@@ -11,3 +20,6 @@ Acessar -> Web -> Front-end:
 	- Conceitos HTML -> Tags básicas
 			 -> Atributos HTML
 			 -> Elementos de nível de bloco e Inline
+------------------------------------------------------------------------------------------------
+
+Hand`s on: Criar uma página WEB.
